@@ -1,5 +1,5 @@
 {
-  "name": "myrealtrip-realtime-policy-resolver",
+  "name": "mrt-realtime-policy-resolver",
   "version": "0.1.0",
   "description": "여행 상품(항공권/투어·액티비티/숙소) 일정변경·취소·오류 문의가 들어왔을 때, 상품 유형별로 흩어진 공개 정책·운영시간·수수료 정보를 실시간으로 교차 조회해 즉시 답변 가능한 구체적 옵션을 만들어주는 스킬",
   "author": {
